@@ -11,8 +11,9 @@ The main goal is to monitor sales performance, understand customer behavior, and
 - **Customer Frequency Patterns:** Many customers purchase infrequently, indicating opportunities for retention campaigns.  
 - **Seasonal Trends:** Sales vary by month and day, providing guidance for stock planning and staffing.  
 - **Outliers in Orders:** A few unusually high or low order totals were detected, possibly indicating bulk purchases or data anomalies.
-## Techniques Used
 
+
+## Techniques Used
 ### SQL Techniques
 - **Data Cleaning & Preprocessing**
 - **Aggregations & Calculation**
